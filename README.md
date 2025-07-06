@@ -2,6 +2,9 @@
 
 An AI-powered Streamlit web app to help users analyze symptoms, track health risks, and get personalized health recommendations using a smart, interactive UI.
 
+[![Live App](https://img.shields.io/badge/Live%20App-Click%20Here-brightgreen?style=for-the-badge)](https://ai-powered-health-assistant-bsfx727zjagso4egraxe3y.streamlit.app/)
+
+
 ---
 
 ## 🌟 Features
@@ -61,6 +64,7 @@ The app will open in your browser at [http://localhost:8501](http://localhost:85
 ## 📸 App Preview
 
 ![App Screenshot](Preview.png)
+
 
 
 ---
