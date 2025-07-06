@@ -92,8 +92,9 @@ The app will open in your browser at [http://localhost:8501](http://localhost:85
 
 ---
 
-## 💖 Built With
+### 💖 Built With
 
-- [Streamlit](https://streamlit.io)
-- [Python](https://www.python.org)
-- [Plotly](https://plotly.com)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
+
