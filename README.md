@@ -20,11 +20,12 @@ An AI-powered Streamlit web app to help users analyze symptoms, track health ris
 
 ## 📦 Tech Stack
 
-- **Streamlit**
-- **Python**
-- **Pandas, Plotly** for data visualization
-- **Mock AI engine** (you can connect GPT/OpenAI in future)
-
+[![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)  
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
+[![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)  
+[![Mock AI Engine](https://img.shields.io/badge/-Mock_AI_Engine-grey?style=for-the-badge)](#)
+> 💡 *Future integration possible with OpenAI/GPT APIs for enhanced health analysis.*
 ---
 
 ## ⚙️ Setup Instructions (Run Locally)
