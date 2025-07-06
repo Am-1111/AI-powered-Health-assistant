@@ -76,7 +76,7 @@ The app will open in your browser at [http://localhost:8501](http://localhost:85
 5. Click **Deploy**
 
 🔗 You’ll get a public URL like:  
-**https://ai-health-assistant.streamlit.app**
+**https://ai-powered-health-assistant-bsfx727zjagso4egraxe3y.streamlit.app/**
 
 ---
 
